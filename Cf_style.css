@@ -1,0 +1,32 @@
+.row {
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+
+}
+.col {
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+    color: whitesmoke;
+    font-size: larger;
+    flex: 1;
+}
+.col2 {
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+    color: whitesmoke;
+    font-size: larger;
+    flex: 2;
+
+}
+.col3 {
+    background-color: darkcyan;
+    margin: 5px;
+    padding: 10px;
+    color: whitesmoke;
+    font-size: larger;
+    flex: 3;
+
+}
